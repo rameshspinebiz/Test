@@ -1,0 +1,1366 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-06 12:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: 404.php:23
+msgid "ERROR 404"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:82
+msgid "Free WordPress Theme : "
+msgstr ""
+
+#: footer.php:83
+msgid "Free WordPress Theme"
+msgstr ""
+
+#: footer.php:84
+msgid "Wp Store"
+msgstr ""
+
+#: footer.php:86
+msgid "by 8DegreeThemes"
+msgstr ""
+
+#: functions.php:50
+msgid "Primary"
+msgstr ""
+
+#: functions.php:51
+msgid "Footer"
+msgstr ""
+
+#: functions.php:102
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:104
+msgid "Add widgets here to show in Sidebar."
+msgstr ""
+
+#: functions.php:111 inc/admin-panel/wp-store-sanitize.php:48
+#: inc/admin-panel/assets/wp-store-inner-panel.php:86
+#: inc/admin-panel/assets/wp-store-inner-panel.php:207
+#: inc/admin-panel/assets/wp-store-inner-panel.php:284
+#: inc/admin-panel/assets/wp-store-inner-panel.php:361
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:113
+msgid "Add widgets here to show in Right Sidebar."
+msgstr ""
+
+#: functions.php:120
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:129 inc/admin-panel/wp-store-sanitize.php:47
+#: inc/admin-panel/assets/wp-store-inner-panel.php:85
+#: inc/admin-panel/assets/wp-store-inner-panel.php:206
+#: inc/admin-panel/assets/wp-store-inner-panel.php:283
+#: inc/admin-panel/assets/wp-store-inner-panel.php:360
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:131
+msgid "Add widgets here to show in Left Sidebar."
+msgstr ""
+
+#: functions.php:138
+msgid "Widget Area One"
+msgstr ""
+
+#: functions.php:140
+msgid "Add widgets here to show in Widget Area One."
+msgstr ""
+
+#: functions.php:147
+msgid "Product Widget Area"
+msgstr ""
+
+#: functions.php:149
+msgid "Add widgets here to show in Product Widget Area."
+msgstr ""
+
+#: functions.php:156
+msgid "Widget Area Two"
+msgstr ""
+
+#: functions.php:158
+msgid "Add widgets here to show in Widget Area Two."
+msgstr ""
+
+#: functions.php:165
+msgid "Widget Area Three"
+msgstr ""
+
+#: functions.php:167
+msgid "Add widgets here to show in Widget Area Three."
+msgstr ""
+
+#: functions.php:174
+msgid "Widget Icon Area"
+msgstr ""
+
+#: functions.php:176
+msgid "Add widgets here to show in Widget Icon Area."
+msgstr ""
+
+#: functions.php:183
+msgid "Footer One"
+msgstr ""
+
+#: functions.php:192
+msgid "Footer Two"
+msgstr ""
+
+#: functions.php:201
+msgid "Footer Three"
+msgstr ""
+
+#: functions.php:210
+msgid "Footer Four"
+msgstr ""
+
+#: header.php:28
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:55
+msgid "My Account"
+msgstr ""
+
+#: header.php:64 header.php:67 inc/wp-store-functions.php:617
+msgid "Wishlist"
+msgstr ""
+
+#: header.php:83
+msgid "Logout"
+msgstr ""
+
+#: header.php:92
+msgid "Login / Signup"
+msgstr ""
+
+#: header.php:129 inc/wp-store-functions.php:680
+msgid "View your shopping cart"
+msgstr ""
+
+#: header.php:132 inc/wp-store-functions.php:683
+msgid "Shopping Cart"
+msgstr ""
+
+#: header.php:133 inc/wp-store-functions.php:684
+#, php-format
+msgid "%s Item"
+msgid_plural "%s Items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: header.php:148
+msgid "Primary Menu"
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "%s Search Results for: %s"
+msgstr ""
+
+#: searchform-header.php:6 inc/admin-panel/assets/wp-store-header-panel.php:116
+msgid "Search..."
+msgstr ""
+
+#: searchform-header.php:11
+msgid "All"
+msgstr ""
+
+#: searchform-header.php:12
+msgid "Product"
+msgstr ""
+
+#: searchform-header.php:13
+msgid "Post"
+msgstr ""
+
+#. Name of the template
+msgid "Homepage"
+msgstr ""
+
+#: tpl-home.php:39
+msgid "Unique and Elegant Unique Rolex"
+msgstr ""
+
+#: tpl-home.php:40
+msgid "Milancelos A Lanos de Rolex"
+msgstr ""
+
+#: tpl-home.php:42 template-parts/content.php:53 template-parts/content.php:58
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:410
+#: inc/admin-panel/assets/wp-store-inner-panel.php:120
+#: inc/admin-panel/assets/wp-store-inner-panel.php:396
+msgid "Read More"
+msgstr ""
+
+#: tpl-home.php:99
+msgid "Get Updated Blogs"
+msgstr ""
+
+#: tpl-home.php:117
+msgid "Comments"
+msgstr ""
+
+#: tpl-home.php:170 inc/admin-panel/assets/wp-store-homepage-panel.php:770
+msgid "Brands We Have"
+msgstr ""
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:65
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. %s: Name of current post
+#. %s: Name of current post
+#: inc/template-tags.php:72 template-parts/content-page.php:33
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/wp-store-customizer.php:21
+msgid "Default and Basic Settings"
+msgstr ""
+
+#: inc/wp-store-customizer.php:22
+msgid "Manage Default and Basic Setups for the site"
+msgstr ""
+
+#: inc/wp-store-customizer.php:37
+msgid "Web Layout Setting"
+msgstr ""
+
+#: inc/wp-store-customizer.php:55
+msgid "Website Layout"
+msgstr ""
+
+#: inc/wp-store-customizer.php:56
+msgid ""
+"Choose weblayout for your Site. This setting will be applied for your Whole "
+"site."
+msgstr ""
+
+#: inc/wp-store-customizer.php:59 inc/admin-panel/wp-store-sanitize.php:7
+msgid "Full Width"
+msgstr ""
+
+#: inc/wp-store-customizer.php:60 inc/admin-panel/wp-store-sanitize.php:8
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/wp-store-customizer.php:69
+msgid "Responsive Mode"
+msgstr ""
+
+#: inc/wp-store-customizer.php:89
+msgid "Enable Responsive Design"
+msgstr ""
+
+#: inc/wp-store-customizer.php:90
+msgid "Check to enable responsive design."
+msgstr ""
+
+#: inc/wp-store-functions.php:105
+msgid "Select category"
+msgstr ""
+
+#: inc/wp-store-functions.php:119
+msgid "Select Parent category"
+msgstr ""
+
+#: inc/wp-store-functions.php:192
+msgid "Instruction"
+msgstr ""
+
+#: inc/wp-store-functions.php:359
+msgid "skype:"
+msgstr ""
+
+#: inc/wp-store-functions.php:372
+#: inc/admin-panel/assets/wp-store-header-panel.php:47
+msgid "Latest"
+msgstr ""
+
+#: inc/wp-store-functions.php:440
+msgid "Partner Logo 1"
+msgstr ""
+
+#: inc/wp-store-functions.php:444
+msgid "Partner Logo 2"
+msgstr ""
+
+#: inc/wp-store-functions.php:448
+msgid "Partner Logo 3"
+msgstr ""
+
+#: inc/wp-store-functions.php:452
+msgid "Partner Logo 4"
+msgstr ""
+
+#: inc/wp-store-functions.php:456
+msgid "SSL Seal"
+msgstr ""
+
+#: inc/wp-store-functions.php:460
+msgid "Other Seal 1"
+msgstr ""
+
+#: inc/wp-store-functions.php:464
+msgid "Other Seal 2"
+msgstr ""
+
+#: inc/wp-store-functions.php:620
+msgid "Whishlist"
+msgstr ""
+
+#: inc/wp-store-metabox.php:25
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/wp-store-metabox.php:30
+msgid "Right sidebar<br/>(default)"
+msgstr ""
+
+#: inc/wp-store-metabox.php:35 inc/admin-panel/wp-store-sanitize.php:49
+#: inc/admin-panel/assets/wp-store-inner-panel.php:87
+#: inc/admin-panel/assets/wp-store-inner-panel.php:208
+#: inc/admin-panel/assets/wp-store-inner-panel.php:285
+#: inc/admin-panel/assets/wp-store-inner-panel.php:362
+msgid "Both Sidebar"
+msgstr ""
+
+#: inc/wp-store-metabox.php:41
+msgid "No sidebar"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:21 template-parts/content.php:39
+#: template-parts/content.php:103
+msgid "Pages:"
+msgstr ""
+
+#: inc/admin-panel/wp-store-sanitize.php:19
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:146
+msgid "Fade"
+msgstr ""
+
+#: inc/admin-panel/wp-store-sanitize.php:20
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:147
+msgid "Back Slide"
+msgstr ""
+
+#: inc/admin-panel/wp-store-sanitize.php:21
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:148
+msgid "Go Down Slide"
+msgstr ""
+
+#: inc/admin-panel/wp-store-sanitize.php:22
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:149
+msgid "Fade Up"
+msgstr ""
+
+#: inc/admin-panel/wp-store-sanitize.php:33
+msgid "Logo and Menu at Left with ads"
+msgstr ""
+
+#: inc/admin-panel/wp-store-sanitize.php:34
+msgid "Logo and Menu at Center"
+msgstr ""
+
+#: inc/admin-panel/wp-store-sanitize.php:35
+msgid "Logo and Menu at Right with ads"
+msgstr ""
+
+#: inc/admin-panel/wp-store-sanitize.php:50
+#: inc/admin-panel/assets/wp-store-inner-panel.php:88
+#: inc/admin-panel/assets/wp-store-inner-panel.php:209
+#: inc/admin-panel/assets/wp-store-inner-panel.php:286
+#: inc/admin-panel/assets/wp-store-inner-panel.php:363
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/admin-panel/wp-store-sanitize.php:61
+#: inc/admin-panel/assets/wp-store-woocommerce-panel.php:112
+msgid "Two"
+msgstr ""
+
+#: inc/admin-panel/wp-store-sanitize.php:62
+#: inc/admin-panel/assets/wp-store-woocommerce-panel.php:113
+msgid "Three"
+msgstr ""
+
+#: inc/admin-panel/wp-store-sanitize.php:63
+#: inc/admin-panel/assets/wp-store-woocommerce-panel.php:114
+msgid "Four"
+msgstr ""
+
+#: inc/admin-panel/wp-store-sanitize.php:64
+#: inc/admin-panel/assets/wp-store-woocommerce-panel.php:115
+msgid "Five"
+msgstr ""
+
+#: inc/admin-panel/wp-store-sanitize.php:80
+#: inc/admin-panel/assets/wp-store-inner-panel.php:110
+msgid "Blog with Large Image"
+msgstr ""
+
+#: inc/admin-panel/wp-store-sanitize.php:81
+#: inc/admin-panel/assets/wp-store-inner-panel.php:111
+msgid "Blog with Medium Image"
+msgstr ""
+
+#: inc/admin-panel/wp-store-sanitize.php:82
+#: inc/admin-panel/assets/wp-store-inner-panel.php:112
+msgid "Blog with Alternate Medium Image"
+msgstr ""
+
+#: inc/admin-panel/wp-store-sanitize.php:94
+#: inc/admin-panel/assets/wp-store-inner-panel.php:386
+msgid "Archive with Large Image"
+msgstr ""
+
+#: inc/admin-panel/wp-store-sanitize.php:95
+#: inc/admin-panel/assets/wp-store-inner-panel.php:387
+msgid "Archive with Medium Image"
+msgstr ""
+
+#: inc/admin-panel/wp-store-sanitize.php:96
+#: inc/admin-panel/assets/wp-store-inner-panel.php:388
+msgid "Archive with Alternate Medium Image"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-footer-panel.php:8
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-footer-panel.php:9
+msgid "Setup footer of the site."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-footer-panel.php:16
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-footer-panel.php:24
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-footer-panel.php:42
+msgid "Footer Copyright Area Text"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-footer-panel.php:43
+msgid "Enter text or Html to show in the footer."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-header-panel.php:9
+msgid "Header Settings"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-header-panel.php:10
+msgid "Setup header of the site."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-header-panel.php:17
+msgid "Ticker Setting"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-header-panel.php:37
+msgid "Enable Ticker in Header"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-header-panel.php:57
+msgid "Ticker Title"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-header-panel.php:76
+msgid "Select a category to show in ticker"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-header-panel.php:77
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:61
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:239
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:620
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:799
+msgid "Note: Parent Category are only listed in dropdown."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-header-panel.php:88
+msgid "Header Search Setting"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-header-panel.php:106
+msgid "Check to Show Search in Header"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-header-panel.php:125
+msgid "Enter Search Placeholder"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-header-panel.php:135
+msgid "Call-To"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-header-panel.php:151
+msgid "Call To Content"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-header-panel.php:152
+msgid "Enter text or HTML for call to action"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-header-panel.php:162
+msgid "Logo Alignment"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-header-panel.php:180
+msgid "Choose the layout that you want"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-header-panel.php:184
+msgid "Left"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-header-panel.php:185
+msgid "Center"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-header-panel.php:186
+msgid "Right"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:9
+msgid "Homepage Settings"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:10
+msgid "Setup homepage section. Some sections are available from widgets"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:19
+msgid "Slider Section"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:21
+msgid "Setup the slider settings for homepage"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:39
+msgid "Enable Slider"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:40
+msgid "Select Yes to show Slider on homepage."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:60
+msgid "Select a category to show in slider"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:81
+msgid "Slider Pager"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:102
+msgid "Slider Controls"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:123
+msgid "Auto Transition"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:143
+msgid "Transition Type(Slide/Fade)"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:166
+msgid "Transition Speed"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:185
+msgid "Slider Caption"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:186
+msgid "Select Yes to show titles and description over Slider"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:197
+msgid "Promotional Block Section"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:201
+msgid "Choose category for the promotional block below the slider."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:218
+msgid "Enable Promotional Block Section"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:219
+msgid "Select Yes to show Promotional Block on homepage."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:238
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:618
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:797
+msgid "Choose Category"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:250
+msgid "Widget Area 1 Section"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:271
+msgid "Enable Widget Area 1 Section"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:272
+msgid "Select Yes to show Widget Area 1 on homepage."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:294
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:496
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:550
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:674
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:728
+msgid "Go to "
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:294
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:496
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:550
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:674
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:728
+msgid "Widgets"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:294
+msgid " and add widgets in Widget Area One"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:304
+msgid "Call to Action(CTA) Section"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:324
+msgid "Enable CTA Section"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:325
+msgid "Select Yes to show Call to action on homepage."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:345
+msgid "CTA Section Title"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:364
+msgid "CTA Section Sub Title"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:383
+msgid "CTA Section Description"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:401
+msgid "Readmore Button link"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:420
+msgid "Readmore Button Text"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:438
+msgid "CTA Section Image"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:439
+msgid "Choose image for CTA Section"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:452
+msgid "Product Section"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:473
+msgid "Enable Product Section"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:474
+msgid "Select Yes to show Product Section on homepage."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:496
+msgid " and add widgets in Product Widget Area"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:506
+msgid "Widget Area 2 Section"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:527
+msgid "Enable Widget Area 2 Section"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:528
+msgid "Select Yes to show Widget Area 2 on homepage."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:550
+msgid " and add widgets in Widget Area Two"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:560
+msgid "Blog Section"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:580
+msgid "Enable Blog Section"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:581
+msgid "Select Yes to show Blog on homepage."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:600
+msgid "Blog Section Title"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:630
+msgid "Widget Area 3 Section"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:651
+msgid "Enable Widget Area 3 Section"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:652
+msgid "Select Yes to show Widget Area 3 on homepage."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:674
+msgid " and add widgets in Widget Area Three"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:684
+msgid "Widget Icon Area Section"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:705
+msgid "Enable Widget Icon Area Section"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:706
+msgid "Select Yes to show Widget Icon Area on homepage."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:728
+msgid " and add widgets in Widget Icon Area"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:738
+msgid "Brand Section"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:759
+msgid "Enable Brand Section"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:760
+msgid "Select Yes to show Brand on homepage."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-homepage-panel.php:779
+msgid "Brand Section Title"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:10
+msgid "Innerpage Settings"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:11
+msgid "Setup the Inner page settings."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:19
+msgid "Blog Page Setting"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:40
+#: inc/admin-panel/assets/wp-store-inner-panel.php:160
+#: inc/admin-panel/assets/wp-store-inner-panel.php:237
+#: inc/admin-panel/assets/wp-store-inner-panel.php:314
+#: inc/admin-panel/assets/wp-store-woocommerce-panel.php:37
+msgid "Enable Home Slider"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:41
+msgid "Show Home Slider on Blog Page."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:61
+#: inc/admin-panel/assets/wp-store-inner-panel.php:182
+#: inc/admin-panel/assets/wp-store-inner-panel.php:258
+#: inc/admin-panel/assets/wp-store-inner-panel.php:335
+#: inc/admin-panel/assets/wp-store-woocommerce-panel.php:58
+msgid "Enable widget before footer"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:62
+msgid "Show widgets of Widget Area Two before footer on Blog Page."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:81
+msgid "Page Layout"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:82
+msgid "Choose layout for Blog page"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:106
+#: inc/admin-panel/assets/wp-store-inner-panel.php:382
+msgid "Post Layout"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:107
+msgid "Choose Blog Post Layout"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:129
+#: inc/admin-panel/assets/wp-store-inner-panel.php:404
+msgid "Read more text"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:140
+msgid "Single Page Settings"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:161
+msgid "Show Home Slider on Single Page."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:183
+msgid "Show widgets of Widget Area Two before footer on Single Page."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:202
+msgid "Single Page Layout"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:203
+msgid "Choose layout for single page landing webpage"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:218
+msgid "Single Post Settings"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:238
+msgid "Show Home Slider on Single Post."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:259
+msgid "Show widgets of Widget Area Two before footer on Single Post."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:279
+msgid "Single Post Layout"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:280
+msgid "Choose layout for single post landing webpage"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:295
+msgid "Archive Pages Settings"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:315
+msgid "Show Home Slider on Archive Page."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:336
+msgid "Show widgets of Widget Area Two before footer on Archive Page."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:356
+msgid "Archive Page Layout"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:357
+msgid "Choose layout for archive pages landing webpage"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-inner-panel.php:383
+msgid "Choose Archive Post Layout"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-partnerlogo-panel.php:9
+msgid "Payment Logo Setting"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-partnerlogo-panel.php:10
+msgid "Add image of Payment Partner Logo. These images are diplayed on Footer."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-partnerlogo-panel.php:17
+msgid "Payment Logo Images"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-partnerlogo-panel.php:37
+msgid "Upload Payment Logo 1 Image"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-partnerlogo-panel.php:57
+msgid "Upload Payment Logo 2 Image"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-partnerlogo-panel.php:77
+msgid "Upload Payment Logo 3 Image"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-partnerlogo-panel.php:97
+msgid "Upload Payment Logo 4 Image"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-partnerlogo-panel.php:107
+msgid "Other Logo Images"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-partnerlogo-panel.php:127
+msgid "Upload SSL Seal Image"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-partnerlogo-panel.php:147
+msgid "Upload Other Seal 1 Image"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-partnerlogo-panel.php:168
+msgid "Upload Other Seal 2 Image"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-social-section.php:8
+msgid "Social Settings"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-social-section.php:28
+msgid "Enable Disable Social Icons in Header"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-social-section.php:50
+msgid "Enable Disable Social Icons in Footer"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-social-section.php:70
+msgid "Facebook"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-social-section.php:89
+msgid "Twitter"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-social-section.php:108
+msgid "Google Plus"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-social-section.php:127
+msgid "YouTube"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-social-section.php:146
+msgid "Pinterest"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-social-section.php:165
+msgid "Linkedin"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-social-section.php:185
+msgid "Vimeo"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-social-section.php:204
+msgid "Instagram"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-social-section.php:223
+msgid "Skype"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-woocommerce-panel.php:9
+msgid "Woocommerce Settings"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-woocommerce-panel.php:10
+msgid "This allows to set wocommerce settings"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-woocommerce-panel.php:17
+msgid "Woocommerce Shop Page"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-woocommerce-panel.php:38
+msgid "Show Home Slider on WooCommerce Shop Page."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-woocommerce-panel.php:59
+msgid "Show widgets of Widget Area Two before footer on WooCommerce Shop Page."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-woocommerce-panel.php:69
+msgid "Woocommerce Products Settings"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-woocommerce-panel.php:89
+msgid "Upload Custom Placeholder"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-woocommerce-panel.php:90
+msgid "Choose image to add fallback image of products in Shop."
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-woocommerce-panel.php:108
+msgid "Products In a Row"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-woocommerce-panel.php:109
+msgid ""
+"(Note: The no. of products you select are applied to list the products in "
+"archive-product page. i.e This setting is applied in Shop page and also in "
+"Search results.)"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-woocommerce-panel.php:132
+msgid "Number of Products"
+msgstr ""
+
+#: inc/admin-panel/assets/wp-store-woocommerce-panel.php:133
+msgid "Enter number of products to be shown in shop."
+msgstr ""
+
+#: inc/admin-panel/controls/wp-store-custom-switch.php:12
+msgid "Yes"
+msgstr ""
+
+#: inc/admin-panel/controls/wp-store-custom-switch.php:13
+msgid "No"
+msgstr ""
+
+#: inc/admin-panel/controls/wp-store-menu-dropdown.php:28
+msgid "Select Menu"
+msgstr ""
+
+#: inc/widgets/assets/widget-cat-product.php:22
+msgid "WP Store: WC Product By Category"
+msgstr ""
+
+#: inc/widgets/assets/widget-cat-product.php:23
+msgid ""
+"This widgets show the Category Image,Description and Product of that Category"
+msgstr ""
+
+#: inc/widgets/assets/widget-cat-product.php:35
+msgid "Right Align With Category Image"
+msgstr ""
+
+#: inc/widgets/assets/widget-cat-product.php:36
+msgid "Left Align With Category Image"
+msgstr ""
+
+#: inc/widgets/assets/widget-cat-product.php:66
+msgid "Select the Display Style (Image Alignment)"
+msgstr ""
+
+#: inc/widgets/assets/widget-cat-product.php:73
+#: inc/widgets/assets/widget-product.php:88
+msgid "Select Product Category"
+msgstr ""
+
+#: inc/widgets/assets/widget-cat-product.php:113
+msgid "Category Image"
+msgstr ""
+
+#: inc/widgets/assets/widget-cta-simple.php:21
+msgid "WP Store :  Call to Action"
+msgstr ""
+
+#: inc/widgets/assets/widget-cta-simple.php:22
+msgid "A widget that shows Simple Call to Action"
+msgstr ""
+
+#: inc/widgets/assets/widget-cta-simple.php:35
+#: inc/widgets/assets/widget-cta-video.php:35
+#: inc/widgets/assets/widget-product.php:69
+#: inc/widgets/assets/widget-promo.php:35
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/assets/widget-cta-simple.php:40
+#: inc/widgets/assets/widget-cta-video.php:40
+#: inc/widgets/assets/widget-product.php:75
+msgid "Description"
+msgstr ""
+
+#: inc/widgets/assets/widget-cta-simple.php:46
+msgid "Button Text"
+msgstr ""
+
+#: inc/widgets/assets/widget-cta-simple.php:51
+msgid "Enter Font-Awesome Class to show in button"
+msgstr ""
+
+#: inc/widgets/assets/widget-cta-simple.php:56
+msgid "Button Url"
+msgstr ""
+
+#: inc/widgets/assets/widget-cta-video.php:21
+msgid "WP Store : Call to Action with Video"
+msgstr ""
+
+#: inc/widgets/assets/widget-cta-video.php:22
+msgid "A widget that shows Call to Action with Video"
+msgstr ""
+
+#: inc/widgets/assets/widget-cta-video.php:46
+msgid "Upload Background Image"
+msgstr ""
+
+#: inc/widgets/assets/widget-cta-video.php:51
+msgid "Video Iframe Url only without tags"
+msgstr ""
+
+#: inc/widgets/assets/widget-fields.php:176
+msgid "No file chosen"
+msgstr ""
+
+#: inc/widgets/assets/widget-fields.php:179
+#: inc/widgets/assets/widget-fields.php:769
+msgid "Upload"
+msgstr ""
+
+#: inc/widgets/assets/widget-fields.php:181
+#: inc/widgets/assets/widget-fields.php:770
+msgid "Remove"
+msgstr ""
+
+#: inc/widgets/assets/widget-fields.php:184
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: inc/widgets/assets/widget-fields.php:203
+msgid "View File"
+msgstr ""
+
+#: inc/widgets/assets/widget-offer.php:22
+msgid "WP Store: WC Offer"
+msgstr ""
+
+#: inc/widgets/assets/widget-offer.php:23
+msgid "Select products for offer of the day/month"
+msgstr ""
+
+#: inc/widgets/assets/widget-offer.php:70
+msgid "Select Product"
+msgstr ""
+
+#: inc/widgets/assets/widget-offer.php:77
+msgid "Readmore button text"
+msgstr ""
+
+#: inc/widgets/assets/widget-offer.php:92
+msgid "Shop Now"
+msgstr ""
+
+#: inc/widgets/assets/widget-offer.php:118
+msgid "%"
+msgstr ""
+
+#: inc/widgets/assets/widget-offer.php:118
+msgid " Off"
+msgstr ""
+
+#: inc/widgets/assets/widget-product.php:22
+msgid "WP Store: WC Product"
+msgstr ""
+
+#: inc/widgets/assets/widget-product.php:23
+msgid "Slider with woocommerce products"
+msgstr ""
+
+#: inc/widgets/assets/widget-product.php:35
+msgid "Category"
+msgstr ""
+
+#: inc/widgets/assets/widget-product.php:36
+msgid "Latest Product"
+msgstr ""
+
+#: inc/widgets/assets/widget-product.php:37
+msgid "UpSell Product"
+msgstr ""
+
+#: inc/widgets/assets/widget-product.php:38
+msgid "Feature Product"
+msgstr ""
+
+#: inc/widgets/assets/widget-product.php:39
+msgid "On Sale Product"
+msgstr ""
+
+#: inc/widgets/assets/widget-product.php:81
+msgid "Select Product Type"
+msgstr ""
+
+#: inc/widgets/assets/widget-product.php:96
+msgid "Select the number of Product to show"
+msgstr ""
+
+#: inc/widgets/assets/widget-promo.php:21
+msgid "WP Store : Promotional Banner Widget"
+msgstr ""
+
+#: inc/widgets/assets/widget-promo.php:22
+msgid "A widget that Gives Promo of the object"
+msgstr ""
+
+#: inc/widgets/assets/widget-promo.php:41
+msgid "Upload Image"
+msgstr ""
+
+#: inc/widgets/assets/widget-promo.php:47
+msgid "Enter Promo Desc"
+msgstr ""
+
+#: inc/widgets/assets/widget-promo.php:54
+msgid "Enter Promo Link"
+msgstr ""
+
+#: inc/widgets/assets/widget-promo.php:60
+msgid "Enter Promo Button Text"
+msgstr ""
+
+#. Name of the theme
+msgid "WP Store"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"WP store is a feature rich woocommerce theme beautifully crafted by our "
+"designers to give best e-commerce experience in a simple design comfortable "
+"for every type of user."
+msgstr ""
+
+#. URI of the theme
+msgid "https://8degreethemes.com/wordpress-themes/wp-store"
+msgstr ""
+
+#. Author of the theme
+msgid "8Degree Themes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://8degreethemes.com/"
+msgstr ""

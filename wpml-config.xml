@@ -1,0 +1,24 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_wp-store">
+            <key name="wp_store_header_setting_ticker_title" />
+            <key name="wp_store_header_setting_ticker_category" />
+            <key name="wp_store_homepage_setting_slider_category" />
+            <key name="wp_store_homepage_setting_promo_category" />
+            <key name="wp_store_header_setting_callto_text" />
+            <key name="wp_store_header_setting_search_placeholder" />
+            <key name="wp_store_homepage_setting_cta_title" />
+            <key name="wp_store_homepage_setting_cta_subtitle" />
+            <key name="wp_store_homepage_setting_cta_desc" />
+            <key name="wp_store_homepage_setting_cta_readmore_link" />
+            <key name="wp_store_homepage_setting_cta_readmore" />
+            <key name="wp_store_homepage_setting_blog_title" />
+            <key name="wp_store_homepage_setting_blog_category" />
+            <key name="wp_store_homepage_setting_brand_title" />
+            <key name="wp_store_homepage_setting_brand_category" />
+            <key name="wp_store_innerpage_setting_blog_page_readmore" />
+            <key name="wp_store_innerpage_setting_archive_readmore" />
+            <key name="wp_store_footer_setting_footer_copyright_text" />
+        </key>
+    </admin-texts>
+</wpml-config>
